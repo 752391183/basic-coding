@@ -1,5 +1,5 @@
 *.iml
-.ignore
+.gitignore
 .class
 .idea
 target

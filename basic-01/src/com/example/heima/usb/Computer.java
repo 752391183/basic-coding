@@ -15,6 +15,7 @@ public class Computer {
             keyboard.type();
         }
         usb.colse();
+
     }
 
     public void close() {

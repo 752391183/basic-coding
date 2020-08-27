@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 /**
- * 斗地主
+ * 斗地主 :无序版本
  */
-public class Test {
+public class NoSort {
     public static void main(String[] args) {
         ArrayList<String> list = ready();
         wash(list);
